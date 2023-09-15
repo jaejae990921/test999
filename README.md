@@ -70,10 +70,10 @@ SYOS에서 여러분의 데스크 셋업을 더욱 특별하게 만들어보세�
 
 ## 3. 기획 단계📋
 ### API 명세서
-<a href="">API 명세서 Notion 링크</a>
+<a href="https://www.notion.so/API-799da201282448afa894fb8eeeb2f06e?pvs=4">API 명세서 Notion 링크</a>
 
-### Figma
-<a href="">Figma 디자인</a>
+### Figma 디자인
+<a href="https://www.figma.com/file/j112ckzag8gWZN3ryzgzUb/Untitled?type=design&node-id=0%3A1&mode=design&t=fIyJVPebcE5CSVBW-1">Figma 디자인</a>
 
 ### ERD
 ![image](https://github.com/jaejae990921/test999/assets/101171774/92a4840e-cfec-46d2-8bac-4bcb93ae6e6a)
