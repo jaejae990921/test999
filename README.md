@@ -40,8 +40,8 @@ SYOS에서 여러분의 데스크 셋업을 더욱 특별하게 만들어보세�
 <img src="https://github.com/jaejae990921/test999/assets/101171774/8c9e2b54-5a24-43f2-80d5-9f8ac023d74e" width="100" height="100" /><br />
 <a href='https://github.com/cheolung12'>cheolung's Github</a><br />
 ```
-📧 E-mail:
-📌 Role: 팀장, Frontend(메인 페이지), Backend(게시물 상세 페이지, 소켓 통신), Release(배포)
+📧 E-mail: cheolung97@gmail.com
+📌 Role: 팀장, Git관리, DB설계, Frontend & Backend(메인페이지, 게시물 상세 페이지, 소켓 통신, NavBar), Release(배포)
 ```
 
 #### 심재운
@@ -49,23 +49,23 @@ SYOS에서 여러분의 데스크 셋업을 더욱 특별하게 만들어보세�
 <a href='https://github.com/jaejae990921'>jaeun's Github</a><br />
 ```
 📧 E-mail: jaejae990921@naver.com
-📌 Role: Frontend&Backend (로그인 페이지, 소셜로그인, 회원가입 페이지, 마이페이지)
+📌 Role: DB 및 API 설계, Frontend & Backend(로그인 페이지, 소셜로그인, 회원가입 페이지, 마이페이지)
 ```
 
 #### 조진형
 <img src="https://github.com/jaejae990921/test999/assets/101171774/fc32a327-f9bf-45b2-a62c-ef2dd0eb6d6b" width="100" height="100" /><br />
 <a href='https://github.com/7jjin'>jinhyeong's Github</a><br />
 ```
-📧 E-mail:
-📌 Role:  
+📧 E-mail: wlsgud6305@naver.com
+📌 Role: DB 및 API 설계, Frontend & Backend(게시물 추천 페이지, 게시물 작성 및 편집 페이지)
 ```
 
 #### 전유민
 <img src="https://github.com/jaejae990921/test999/assets/101171774/bc002384-b0d3-42ce-a57c-8089e97c8284" width="100" height="100" /><br />
 <a href='https://github.com/dbals627'>yumin's Github</a><br />
 ```
-📧 E-mail:
-📌 Role:  
+📧 E-mail: gkjm123@naver.com 
+📌 Role: 디자인 설계, Frontend(게시물 공유 페이지, 게시물 상세 페이지), Backend(게시물 공유 페이지)
 ```
 
 ## 3. 기획 단계📋
